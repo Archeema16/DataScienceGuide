@@ -1,2 +1,2 @@
 # DataScienceGuide
-The repo contains guides for frameworks and tools needed in Data Science Journey.  
+The repo contains guides for frameworks and tools needed in your Data Science Journey.  
